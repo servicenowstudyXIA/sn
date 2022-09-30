@@ -4,6 +4,7 @@
         <element label="B" max_length="40" name="b" type="string"/>
         <element label="C" max_length="40" name="c" type="string"/>
         <element label="D" max_length="40" name="d" type="string"/>
+        <element label="E" max_length="40" name="e" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>
