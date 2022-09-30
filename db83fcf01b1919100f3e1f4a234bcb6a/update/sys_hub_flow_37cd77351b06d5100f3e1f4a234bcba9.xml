@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build>glide-sandiego-12-22-2021__patch1-03-02-2022_03-17-2022_1811.zip</compiler_build>
+        <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
+        <copied_from_name>FlowTemplate_Empty</copied_from_name>
+        <description/>
+        <internal_name>create_record_flow</internal_name>
+        <label_cache>[{"name":"作成日時_1.current.description","label":"トリガー - Record 作成日時➛MyFlowTask Record➛説明","reference":"","reference_display":"説明","type":"string","base_type":"string","parent_table_name":"x_869650_my_app_myflowtask","column_name":"description"},{"name":"6ffbdae8-b3db-4808-8f8d-9955ee32f1d3.__dont_treat_as_error__","label":"1 - Create Record➛エラーとして扱わない","reference_display":"エラーとして扱わない","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"6ffbdae8-b3db-4808-8f8d-9955ee32f1d3.__action_status__","label":"1 - Create Record➛アクションステータス","reference_display":"アクションステータス","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"6ffbdae8-b3db-4808-8f8d-9955ee32f1d3.table_name","label":"1 - Create Record➛x_869650_my_app_my_task テーブル","reference":"x_869650_my_app_my_task","reference_display":"My Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6ffbdae8-b3db-4808-8f8d-9955ee32f1d3.record","label":"1 - Create Record➛x_869650_my_app_my_task Record","reference":"x_869650_my_app_my_task","reference_display":"My Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <master_snapshot>acb084c61b06d5100f3e1f4a234bcbff</master_snapshot>
+        <name>Create Record Flow</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id>b8b0c4c61b06d5100f3e1f4a234bcb5e</remote_trigger_id>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 06:58:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>37cd77351b06d5100f3e1f4a234bcba9</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Create Record Flow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_hub_flow_37cd77351b06d5100f3e1f4a234bcba9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:15:56</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>37cd77351b06d5100f3e1f4a234bcba9</documentkey>
+        <fieldname>annotation</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 06:58:04</sys_created_on>
+        <sys_id>3fcd77351b06d5100f3e1f4a234bcba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 06:58:04</sys_updated_on>
+        <tablename>sys_hub_flow</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_variable_value action="delete_multiple" query="document_key=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_flow_record_trigger action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_869650_my_app_myflowtask">operation=create<item display_value="Create" endquery="false" field="operation" goto="false" newquery="false" operator="=" or="false" value="create"/>
+        </condition>
+        <name/>
+        <on_delete>false</on_delete>
+        <on_insert>true</on_insert>
+        <on_update>false</on_update>
+        <run_flow_in>background</run_flow_in>
+        <run_on_extended>false</run_on_extended>
+        <run_when_setting>both</run_when_setting>
+        <run_when_user_list/>
+        <run_when_user_setting>any</run_when_user_setting>
+        <sys_class_name>sys_flow_record_trigger</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b8b0c4c61b06d5100f3e1f4a234bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_overrides/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <table>x_869650_my_app_myflowtask</table>
+    </sys_flow_record_trigger>
+    <sys_trigger_runner_mapping action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <data>{"table":"sys_trigger_runner_mapping","id":"b4b0c4c61b06d5100f3e1f4a234bcb5f","name":"trigger_runner","type":"java.util.Collections$UnmodifiableMap"}</data>
+        <identifier>37cd77351b06d5100f3e1f4a234bcba9</identifier>
+        <runner>FDTriggerRunner</runner>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>b4b0c4c61b06d5100f3e1f4a234bcb5f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:15:57</sys_updated_on>
+        <trigger display_value="">b8b0c4c61b06d5100f3e1f4a234bcb5e</trigger>
+    </sys_trigger_runner_mapping>
+    <sys_json_chunk action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAGXLWwqAIBBA0b3MdytwKxGD5fggGUFHLKK99yAo6Pce7ga5MtqYGgYGBaOeZpdTZQPdTc0TYy2UMYYioPrh0wuJBHbXl8T/jpc1r48mRlqE2JA5u9WxEOwH5v2lw4YAAAA=</data>
+        <document_id>b4b0c4c61b06d5100f3e1f4a234bcb5f</document_id>
+        <field>trigger_runner</field>
+        <length>144</length>
+        <position>0</position>
+        <source_table>sys_trigger_runner_mapping</source_table>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>74b0c4c61b06d5100f3e1f4a234bcb60</sys_id>
+    </sys_json_chunk>
+    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=37cd77351b06d5100f3e1f4a234bcba9^sys_idNOT INb4b0c4c61b06d5100f3e1f4a234bcb5f"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=37cd77351b06d5100f3e1f4a234bcba9^sys_idNOT IN83a084c61b06d5100f3e1f4a234bcb36"/>
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Create Record Flow">37cd77351b06d5100f3e1f4a234bcba9</flow>
+        <name>作成日時</name>
+        <remote_sys_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>83a084c61b06d5100f3e1f4a234bcb36</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:43</sys_updated_on>
+        <trigger_definition display_value="作成日時">798916a0c31322002841b63b12d3ae7c</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>record_create</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=83a084c61b06d5100f3e1f4a234bcb36"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>83a084c61b06d5100f3e1f4a234bcb36</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>47a084c61b06d5100f3e1f4a234bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:35</sys_updated_on>
+        <value>operation=create</value>
+        <variable display_value="Condition">66aadea0c31322002841b63b12d3aebf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>83a084c61b06d5100f3e1f4a234bcb36</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>cfa084c61b06d5100f3e1f4a234bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:35</sys_updated_on>
+        <value>x_869650_my_app_myflowtask</value>
+        <variable display_value="Table">cfca92e0c31322002841b63b12d3ae00</variable>
+    </sys_variable_value>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=37cd77351b06d5100f3e1f4a234bcba9^sys_idNOT INbfcd77351b06d5100f3e1f4a234bcbaf"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>37cd77351b06d5100f3e1f4a234bcba9</id>
+        <name>Create Record Flow</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 06:58:04</sys_created_on>
+        <sys_id>bfcd77351b06d5100f3e1f4a234bcbaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 06:58:04</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=bfcd77351b06d5100f3e1f4a234bcbaf"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=37cd77351b06d5100f3e1f4a234bcba9^sys_idNOT INb2a084c61b06d5100f3e1f4a234bcb2a,c7a084c61b06d5100f3e1f4a234bcb31"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent>table_name</dependent>
+        <dependent_on_field>table_name</dependent_on_field>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>current</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">document_id</internal_type>
+        <label>レコード</label>
+        <mandatory>true</mandatory>
+        <max_length>200</max_length>
+        <model display_value="Create Record Flow">37cd77351b06d5100f3e1f4a234bcba9</model>
+        <model_id>37cd77351b06d5100f3e1f4a234bcba9</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_37cd77351b06d5100f3e1f4a234bcba9</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>b2a084c61b06d5100f3e1f4a234bcb2a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>true</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>table_name</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">table_name</internal_type>
+        <label>テーブル名</label>
+        <mandatory>false</mandatory>
+        <max_length>200</max_length>
+        <model display_value="Create Record Flow">37cd77351b06d5100f3e1f4a234bcba9</model>
+        <model_id>37cd77351b06d5100f3e1f4a234bcba9</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_37cd77351b06d5100f3e1f4a234bcba9</name>
+        <next_element/>
+        <order>101</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>c7a084c61b06d5100f3e1f4a234bcb31</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:43</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_flow_output action="delete_multiple" query="model=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=37cd77351b06d5100f3e1f4a234bcba9^sys_idNOT IN0fa084c61b06d5100f3e1f4a234bcb3c"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="レコードの作成">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Create Record Flow">37cd77351b06d5100f3e1f4a234bcba9</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>0fa084c61b06d5100f3e1f4a234bcb3c</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:13:59</sys_updated_on>
+        <ui_id>6ffbdae8-b3db-4808-8f8d-9955ee32f1d3</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0fa084c61b06d5100f3e1f4a234bcb3c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0fa084c61b06d5100f3e1f4a234bcb3c</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>4ba084c61b06d5100f3e1f4a234bcb3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:35</sys_updated_on>
+        <value>x_869650_my_app_my_task</value>
+        <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=0fa084c61b06d5100f3e1f4a234bcb3c"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>0fa084c61b06d5100f3e1f4a234bcb3c</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>8fa084c61b06d5100f3e1f4a234bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>0fa084c61b06d5100f3e1f4a234bcb3c</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>c7a084c61b06d5100f3e1f4a234bcb3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>mandatory=固定某个值^due_date=2022-10-01^task_title={{作成日時_1.current.description}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=0fa084c61b06d5100f3e1f4a234bcb3c"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=0fa084c61b06d5100f3e1f4a234bcb3c"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_37cd77351b06d5100f3e1f4a234bcba9^sys_idNOT INc3a084c61b06d5100f3e1f4a234bcb30,cfa084c61b06d5100f3e1f4a234bcb33"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>current</element>
+        <help/>
+        <hint/>
+        <label>レコード</label>
+        <language>ja</language>
+        <name>var__m_sys_hub_flow_input_37cd77351b06d5100f3e1f4a234bcba9</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>c3a084c61b06d5100f3e1f4a234bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:35</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>table_name</element>
+        <help/>
+        <hint/>
+        <label>テーブル名</label>
+        <language>ja</language>
+        <name>var__m_sys_hub_flow_input_37cd77351b06d5100f3e1f4a234bcba9</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:35</sys_created_on>
+        <sys_id>cfa084c61b06d5100f3e1f4a234bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:35</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=37cd77351b06d5100f3e1f4a234bcba9^sys_idNOT IN74b0c4c61b06d5100f3e1f4a234bcb61"/>
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"74b0c4c61b06d5100f3e1f4a234bcb61","name":"plan","plan_signature":null}}</plan>
+        <plan_id>37cd77351b06d5100f3e1f4a234bcba9</plan_id>
+        <snapshot>bc71c00a1b06d5100f3e1f4a234bcb13</snapshot>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>74b0c4c61b06d5100f3e1f4a234bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_overrides/>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <trigger display_value="">b8b0c4c61b06d5100f3e1f4a234bcb5e</trigger>
+    </sys_flow_trigger_plan>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=37cd77351b06d5100f3e1f4a234bcba9"/>
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>create_record_flow</internal_name>
+        <label_cache>[{"name":"作成日時_1.current.description","label":"トリガー - Record 作成日時➛MyFlowTask Record➛説明","reference":"","reference_display":"説明","type":"string","base_type":"string","parent_table_name":"x_869650_my_app_myflowtask","column_name":"description"},{"name":"6ffbdae8-b3db-4808-8f8d-9955ee32f1d3.__dont_treat_as_error__","label":"1 - Create Record➛エラーとして扱わない","reference_display":"エラーとして扱わない","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"6ffbdae8-b3db-4808-8f8d-9955ee32f1d3.__action_status__","label":"1 - Create Record➛アクションステータス","reference_display":"アクションステータス","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"6ffbdae8-b3db-4808-8f8d-9955ee32f1d3.table_name","label":"1 - Create Record➛x_869650_my_app_my_task テーブル","reference":"x_869650_my_app_my_task","reference_display":"My Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6ffbdae8-b3db-4808-8f8d-9955ee32f1d3.record","label":"1 - Create Record➛x_869650_my_app_my_task Record","reference":"x_869650_my_app_my_task","reference_display":"My Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <master>true</master>
+        <name>Create Record Flow</name>
+        <natlang/>
+        <outputs/>
+        <parent_flow display_value="Create Record Flow">37cd77351b06d5100f3e1f4a234bcba9</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>acb084c61b06d5100f3e1f4a234bcbff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:41</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>acb084c61b06d5100f3e1f4a234bcbff</documentkey>
+        <fieldname>annotation</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:41</sys_created_on>
+        <sys_id>e8b0c4c61b06d5100f3e1f4a234bcb00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:41</sys_updated_on>
+        <tablename>sys_hub_flow_snapshot</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_variable_value action="delete_multiple" query="document_key=acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=acb084c61b06d5100f3e1f4a234bcbff^sys_idNOT INe8b0c4c61b06d5100f3e1f4a234bcb42"/>
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Create Record Flow">acb084c61b06d5100f3e1f4a234bcbff</flow>
+        <name>作成日時</name>
+        <remote_sys_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>e8b0c4c61b06d5100f3e1f4a234bcb42</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <trigger_definition display_value="作成日時">798916a0c31322002841b63b12d3ae7c</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>record_create</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e8b0c4c61b06d5100f3e1f4a234bcb42"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>e8b0c4c61b06d5100f3e1f4a234bcb42</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>a0b0c4c61b06d5100f3e1f4a234bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <value>x_869650_my_app_myflowtask</value>
+        <variable display_value="Table">cfca92e0c31322002841b63b12d3ae00</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>e8b0c4c61b06d5100f3e1f4a234bcb42</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>ecb0c4c61b06d5100f3e1f4a234bcb43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <value>operation=create</value>
+        <variable display_value="Condition">66aadea0c31322002841b63b12d3aebf</variable>
+    </sys_variable_value>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=acb084c61b06d5100f3e1f4a234bcbff^sys_idNOT INe8b0c4c61b06d5100f3e1f4a234bcb01"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>acb084c61b06d5100f3e1f4a234bcbff</id>
+        <name>Create Record Flow</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:41</sys_created_on>
+        <sys_id>e8b0c4c61b06d5100f3e1f4a234bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:41</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=e8b0c4c61b06d5100f3e1f4a234bcb01"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=acb084c61b06d5100f3e1f4a234bcbff^sys_idNOT INa0b0c4c61b06d5100f3e1f4a234bcb03,a8b0c4c61b06d5100f3e1f4a234bcb24"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent>table_name</dependent>
+        <dependent_on_field>table_name</dependent_on_field>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>current</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">document_id</internal_type>
+        <label>レコード</label>
+        <mandatory>true</mandatory>
+        <max_length>200</max_length>
+        <model display_value="Create Record Flow">acb084c61b06d5100f3e1f4a234bcbff</model>
+        <model_id>acb084c61b06d5100f3e1f4a234bcbff</model_id>
+        <model_table>sys_hub_flow_snapshot</model_table>
+        <name>var__m_sys_hub_flow_input_acb084c61b06d5100f3e1f4a234bcbff</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:41</sys_created_on>
+        <sys_id>a0b0c4c61b06d5100f3e1f4a234bcb03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:41</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>true</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>table_name</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">table_name</internal_type>
+        <label>テーブル名</label>
+        <mandatory>false</mandatory>
+        <max_length>200</max_length>
+        <model display_value="Create Record Flow">acb084c61b06d5100f3e1f4a234bcbff</model>
+        <model_id>acb084c61b06d5100f3e1f4a234bcbff</model_id>
+        <model_table>sys_hub_flow_snapshot</model_table>
+        <name>var__m_sys_hub_flow_input_acb084c61b06d5100f3e1f4a234bcbff</name>
+        <next_element/>
+        <order>101</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>a8b0c4c61b06d5100f3e1f4a234bcb24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_flow_output action="delete_multiple" query="model=acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=acb084c61b06d5100f3e1f4a234bcbff^sys_idNOT INe0b0c4c61b06d5100f3e1f4a234bcb41"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="レコードの作成">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="レコードの作成">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <comment/>
+        <compiled_snapshot>2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Create Record Flow">acb084c61b06d5100f3e1f4a234bcbff</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>e0b0c4c61b06d5100f3e1f4a234bcb41</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <ui_id>6ffbdae8-b3db-4808-8f8d-9955ee32f1d3</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e0b0c4c61b06d5100f3e1f4a234bcb41"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e0b0c4c61b06d5100f3e1f4a234bcb41</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>e4b0c4c61b06d5100f3e1f4a234bcb42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <value>x_869650_my_app_my_task</value>
+        <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=e0b0c4c61b06d5100f3e1f4a234bcb41"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>e0b0c4c61b06d5100f3e1f4a234bcb41</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>a0b0c4c61b06d5100f3e1f4a234bcb42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>e0b0c4c61b06d5100f3e1f4a234bcb41</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>64b0c4c61b06d5100f3e1f4a234bcb42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>mandatory=固定某个值^due_date=2022-10-01^task_title={{作成日時_1.current.description}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=e0b0c4c61b06d5100f3e1f4a234bcb41"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=e0b0c4c61b06d5100f3e1f4a234bcb41"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_acb084c61b06d5100f3e1f4a234bcbff^sys_idNOT INa0b0c4c61b06d5100f3e1f4a234bcb21,a0b0c4c61b06d5100f3e1f4a234bcb29"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>current</element>
+        <help/>
+        <hint/>
+        <label>レコード</label>
+        <language>ja</language>
+        <name>var__m_sys_hub_flow_input_acb084c61b06d5100f3e1f4a234bcbff</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>a0b0c4c61b06d5100f3e1f4a234bcb21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>table_name</element>
+        <help/>
+        <hint/>
+        <label>テーブル名</label>
+        <language>ja</language>
+        <name>var__m_sys_hub_flow_input_acb084c61b06d5100f3e1f4a234bcbff</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:10:42</sys_created_on>
+        <sys_id>a0b0c4c61b06d5100f3e1f4a234bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:10:42</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_acb084c61b06d5100f3e1f4a234bcbff"/>
+    <sys_hub_flow action="update">
+        <sys_id>37cd77351b06d5100f3e1f4a234bcba9</sys_id>
+        <latest_snapshot>acb084c61b06d5100f3e1f4a234bcbff</latest_snapshot>
+    </sys_hub_flow>
+</record_update>

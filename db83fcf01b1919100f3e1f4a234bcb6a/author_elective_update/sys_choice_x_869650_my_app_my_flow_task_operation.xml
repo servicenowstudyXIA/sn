@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="operation" table="x_869650_my_app_my_flow_task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>operation</element>
+            <name>x_869650_my_app_my_flow_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 05:18:27</sys_created_on>
+            <sys_id>1c07e77d1b82d5100f3e1f4a234bcb9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>operation</sys_name>
+            <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+            <sys_update_name>sys_choice_x_869650_my_app_my_flow_task_operation</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 05:18:27</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

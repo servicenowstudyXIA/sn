@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_869650_my_app_myflowtask">x_869650_my_app_myflowtask</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MYF</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 06:52:59</sys_created_on>
+        <sys_id>15ac7fb11b06d5100f3e1f4a234bcb63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MYF</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_number_15ac7fb11b06d5100f3e1f4a234bcb63</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 06:52:59</sys_updated_on>
+    </sys_number>
+</record_update>

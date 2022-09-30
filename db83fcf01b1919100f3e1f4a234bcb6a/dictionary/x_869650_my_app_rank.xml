@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Rank" max_length="40" name="x_869650_my_app_rank" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Rank" max_length="40" name="rank" type="string"/>
+    </element>
+</database>

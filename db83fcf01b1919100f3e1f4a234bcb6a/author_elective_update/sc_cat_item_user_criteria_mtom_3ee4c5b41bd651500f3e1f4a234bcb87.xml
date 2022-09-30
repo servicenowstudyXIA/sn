@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="開発者用ラップトップ(Mac)">2cb52d731b2191900f3e1f4a234bcb6b</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 01:12:04</sys_created_on>
+        <sys_id>3ee4c5b41bd651500f3e1f4a234bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>開発者用ラップトップ(Mac).MyAppKB</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_3ee4c5b41bd651500f3e1f4a234bcb87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 01:12:04</sys_updated_on>
+        <user_criteria display_value="MyAppKB">2f308d701bd651500f3e1f4a234bcbbd</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</application>
+        <file_path/>
+        <instance_id>2990a4c1db483410f37acac5059619dd</instance_id>
+        <instance_name>dev114441</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_3ee4c5b41bd651500f3e1f4a234bcb87</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="開発者用ラップトップ(Mac)">2cb52d731b2191900f3e1f4a234bcb6b</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-30 01:12:04</sys_created_on><sys_id>3ee4c5b41bd651500f3e1f4a234bcb87</sys_id><sys_mod_count>0</sys_mod_count><sys_name>開発者用ラップトップ(Mac).MyAppKB</sys_name><sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package><sys_policy/><sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_3ee4c5b41bd651500f3e1f4a234bcb87</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-30 01:12:04</sys_updated_on><user_criteria display_value="MyAppKB">2f308d701bd651500f3e1f4a234bcbbd</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1488224854</payload_hash>
+        <record_name>開発者用ラップトップ(Mac).MyAppKB</record_name>
+        <reverted_from/>
+        <source>5f83fcf01b1919100f3e1f4a234bcb6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 01:12:04</sys_created_on>
+        <sys_id>83e4c5b41bd651500f3e1f4a234bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1838bf357520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 01:12:04</sys_updated_on>
+        <type>利用可能なカタログアイテム</type>
+        <update_guid>3ae4c5b432d6515047a219987093d48a</update_guid>
+        <update_guid_history>3ae4c5b432d6515047a219987093d48a:1488224854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="開発者用ラップトップ(Mac).MyAppKB">242649f41bd651500f3e1f4a234bcbbf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 01:17:21</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>2d415ae27dd04b408a02c41cd1646400</sys_id>
+        <sys_metadata>3ee4c5b41bd651500f3e1f4a234bcb87</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>開発者用ラップトップ(Mac).MyAppKB</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_scope_delete display_value="">a1932bc7ec36443098261662420be604</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_3ee4c5b41bd651500f3e1f4a234bcb87</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_3ee4c5b41bd651500f3e1f4a234bcb87">83e4c5b41bd651500f3e1f4a234bcb8b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 01:17:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

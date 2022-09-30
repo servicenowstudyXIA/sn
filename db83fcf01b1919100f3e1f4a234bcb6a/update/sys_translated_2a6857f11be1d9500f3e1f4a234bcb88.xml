@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>title</element>
+        <id/>
+        <label>Create My Task</label>
+        <language>ja</language>
+        <name>sys_app_module</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-27 07:43:18</sys_created_on>
+        <sys_id>2a6857f11be1d9500f3e1f4a234bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create My Task</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_translated_2a6857f11be1d9500f3e1f4a234bcb88</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-27 07:43:18</sys_updated_on>
+        <value>Create My Task</value>
+    </sys_translated>
+</record_update>

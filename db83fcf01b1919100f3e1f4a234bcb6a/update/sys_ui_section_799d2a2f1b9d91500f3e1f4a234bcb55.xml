@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="x_869650_my_app_my_task" section_id="799d2a2f1b9d91500f3e1f4a234bcb55" sys_domain="global" table="x_869650_my_app_my_task" version="3" view="Policy_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy_test</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:56:05</sys_created_on>
+            <sys_id>b40fae6f1b9d91500f3e1f4a234bcb21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_869650_my_app_my_task" display_value="x_869650_my_app_my_task" name="x_869650_my_app_my_task" sys_domain="global" view="359d2a2f1b9d91500f3e1f4a234bcb51">799d2a2f1b9d91500f3e1f4a234bcb55</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:56:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>result</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:56:05</sys_created_on>
+            <sys_id>300fae6f1b9d91500f3e1f4a234bcb22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_869650_my_app_my_task" display_value="x_869650_my_app_my_task" name="x_869650_my_app_my_task" sys_domain="global" view="359d2a2f1b9d91500f3e1f4a234bcb51">799d2a2f1b9d91500f3e1f4a234bcb55</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:56:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>x_869650_my_app_my_task</caption>
+            <header>false</header>
+            <name>x_869650_my_app_my_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:49:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>799d2a2f1b9d91500f3e1f4a234bcb55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_869650_my_app_my_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+            <sys_update_name>sys_ui_section_799d2a2f1b9d91500f3e1f4a234bcb55</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:49:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Policy View" name="Policy_View">359d2a2f1b9d91500f3e1f4a234bcb51</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

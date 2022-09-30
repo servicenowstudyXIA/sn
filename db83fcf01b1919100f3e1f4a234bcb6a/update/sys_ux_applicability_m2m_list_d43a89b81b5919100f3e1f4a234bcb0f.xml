@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for appMy App">8c3a49b81b5919100f3e1f4a234bcbf7</applicability>
+        <list display_value="すべて">983a89b81b5919100f3e1f4a234bcb0d</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 08:32:18</sys_created_on>
+        <sys_id>d43a89b81b5919100f3e1f4a234bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_d43a89b81b5919100f3e1f4a234bcb0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:32:18</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

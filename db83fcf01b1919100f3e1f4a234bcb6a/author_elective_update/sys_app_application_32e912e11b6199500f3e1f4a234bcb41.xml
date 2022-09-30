@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>我的菜单</description>
+        <device_type>browser</device_type>
+        <hint>my app hint</hint>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 08:34:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>32e912e11b6199500f3e1f4a234bcb41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_app_application_32e912e11b6199500f3e1f4a234bcb41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 08:34:45</sys_updated_on>
+        <title>My App</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</application>
+        <file_path/>
+        <instance_id>2990a4c1db483410f37acac5059619dd</instance_id>
+        <instance_name>dev114441</instance_name>
+        <name>sys_app_application_32e912e11b6199500f3e1f4a234bcb41</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description>我的菜单</description><device_type>browser</device_type><hint>my app hint</hint><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-26 08:34:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>32e912e11b6199500f3e1f4a234bcb41</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My App</sys_name><sys_overrides/><sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package><sys_policy/><sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope><sys_update_name>sys_app_application_32e912e11b6199500f3e1f4a234bcb41</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-26 08:34:45</sys_updated_on><title>My App</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>563240632</payload_hash>
+        <record_name>My App</record_name>
+        <reverted_from/>
+        <source>5f83fcf01b1919100f3e1f4a234bcb6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 08:34:46</sys_created_on>
+        <sys_id>ba9a5a611b6199500f3e1f4a234bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182d94a141f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 08:34:46</sys_updated_on>
+        <type>アプリケーションメニュー</type>
+        <update_guid>f29a5a614c6199500d88d5273950adc6</update_guid>
+        <update_guid_history>f29a5a614c6199500d88d5273950adc6:563240632</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My App">13e7d3f11be1d9500f3e1f4a234bcba3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-27 07:41:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>209e026cd2d04a7682f7ff4788289f61</sys_id>
+        <sys_metadata>32e912e11b6199500f3e1f4a234bcb41</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My App</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_scope_delete display_value="">a1932bc7ec36443098261662420be604</sys_scope_delete>
+        <sys_update_name>sys_app_application_32e912e11b6199500f3e1f4a234bcb41</sys_update_name>
+        <sys_update_version display_value="sys_app_application_32e912e11b6199500f3e1f4a234bcb41">ba9a5a611b6199500f3e1f4a234bcbc6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-27 07:41:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

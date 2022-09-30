@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Task Category" max_length="40" name="x_869650_my_app_task_category" sizeclass="3" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Task category" mandatory="true" max_length="40" name="task_category" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="">532a49b862591910914bdca9d45b2b7c</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 08:32:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>132a49b8b6591910b531acddc2c6d77a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_ux_page_property_132a49b8b6591910b531acddc2c6d77a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:32:15</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_869650_my_app.532a49b862591910914bdca9d45b2b7c.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</application>
+        <file_path/>
+        <instance_id>2990a4c1db483410f37acac5059619dd</instance_id>
+        <instance_name>dev114441</instance_name>
+        <name>sys_ux_page_property_132a49b8b6591910b531acddc2c6d77a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_notification_uiRoute</name><page display_value="">532a49b862591910914bdca9d45b2b7c</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-11 08:32:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>132a49b8b6591910b531acddc2c6d77a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_notification_uiRoute</sys_name><sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package><sys_policy/><sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope><sys_update_name>sys_ux_page_property_132a49b8b6591910b531acddc2c6d77a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-11 08:32:15</sys_updated_on><type>string</type><unique_name>x_869650_my_app.532a49b862591910914bdca9d45b2b7c.root.chrome_notification_uiRoute</unique_name><value>cb1af195872023002941b53046cb0b4e</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1453788315</payload_hash>
+        <record_name>chrome_notification_uiRoute</record_name>
+        <reverted_from/>
+        <source>3920c5c31b0111100f3e1f4a234bcbea</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-08-05 21:19:04</sys_created_on>
+        <sys_id>855211f01b9919100f3e1f4a234bcbb2</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1826fe041400000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>455211f0bc991910cb24610bc1b8fab2</update_guid>
+        <update_guid_history>455211f0bc991910cb24610bc1b8fab2:-1453788315</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 09:07:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>10f1958f4d43450081ee5df1c6707644</sys_id>
+        <sys_metadata>132a49b8b6591910b531acddc2c6d77a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_scope_delete display_value="">a1932bc7ec36443098261662420be604</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_132a49b8b6591910b531acddc2c6d77a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_132a49b8b6591910b531acddc2c6d77a">855211f01b9919100f3e1f4a234bcbb2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 09:07:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>L1 Configuration	</description>
+        <name>chrome_toolbar</name>
+        <page display_value="">532a49b862591910914bdca9d45b2b7c</page>
+        <required_translations>[ {
+  "message" : "Analytics Center",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 08:32:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1f2a49b8a4591910063980849917c279</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_ux_page_property_1f2a49b8a4591910063980849917c279</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:32:15</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_869650_my_app.532a49b862591910914bdca9d45b2b7c.root.chrome_toolbar</unique_name>
+        <value>[&#13;
+   {&#13;
+      "id":"home",&#13;
+      "label": {&#13;
+              "message": "Home",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"home-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"home"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+   {&#13;
+      "id":"list",&#13;
+      "label": {&#13;
+              "message": "List",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"list-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"list"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+ {&#13;
+      "id":"analytics-center",&#13;
+      "label": {&#13;
+              "message": "Analytics Center",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"analytics-center-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"analytics-center"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   }&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</application>
+        <file_path/>
+        <instance_id>2990a4c1db483410f37acac5059619dd</instance_id>
+        <instance_name>dev114441</instance_name>
+        <name>sys_ux_page_property_1f2a49b8a4591910063980849917c279</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>L1 Configuration	</description><name>chrome_toolbar</name><page display_value="">532a49b862591910914bdca9d45b2b7c</page><required_translations>[ {
+  "message" : "Analytics Center",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-11 08:32:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>1f2a49b8a4591910063980849917c279</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_toolbar</sys_name><sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package><sys_policy/><sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope><sys_update_name>sys_ux_page_property_1f2a49b8a4591910063980849917c279</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-11 08:32:15</sys_updated_on><type>json</type><unique_name>x_869650_my_app.532a49b862591910914bdca9d45b2b7c.root.chrome_toolbar</unique_name><value>[&#13;
+   {&#13;
+      "id":"home",&#13;
+      "label": {&#13;
+              "message": "Home",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"home-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"home"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+   {&#13;
+      "id":"list",&#13;
+      "label": {&#13;
+              "message": "List",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"list-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"list"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+ {&#13;
+      "id":"analytics-center",&#13;
+      "label": {&#13;
+              "message": "Analytics Center",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"analytics-center-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"analytics-center"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   }&#13;
+]</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-2008016963</payload_hash>
+        <record_name>chrome_toolbar</record_name>
+        <reverted_from/>
+        <source>3920c5c31b0111100f3e1f4a234bcbea</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-08-05 21:19:04</sys_created_on>
+        <sys_id>455211f01b9919100f3e1f4a234bcbb7</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1826fe041400000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>055211f053991910164a192a1c0c2bb7</update_guid>
+        <update_guid_history>055211f053991910164a192a1c0c2bb7:-2008016963</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 09:07:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>591b7a133c494a6d98164cced108ea09</sys_id>
+        <sys_metadata>1f2a49b8a4591910063980849917c279</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_scope_delete display_value="">a1932bc7ec36443098261662420be604</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_1f2a49b8a4591910063980849917c279</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_1f2a49b8a4591910063980849917c279">455211f01b9919100f3e1f4a234bcbb7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 09:07:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

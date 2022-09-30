@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="My App">4a8215f062991910c16d6f6a2c3df490</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 09:08:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>868215f0df991910c66f981a6a57e18e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_ux_page_property_868215f0df991910c66f981a6a57e18e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 09:08:47</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_869650_my_app.4a8215f062991910c16d6f6a2c3df490.root.listConfigId</unique_name>
+        <value>2e8255f01b9919100f3e1f4a234bcb12</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=868215f0df991910c66f981a6a57e18e"/>
+</record_update>

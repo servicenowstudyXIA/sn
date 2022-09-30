@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="My App Config">932a49b8e6591910a71433acd4ec7a7c</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>All Dashboards</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>all-dashboards</route_type>
+        <screen_type display_value="すべてのダッシュボード">932a49b83d5919107aa7d90d477f687b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 08:32:16</sys_created_on>
+        <sys_id>df2a49b81e591910c76147604458cf7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_ux_app_route_df2a49b81e591910c76147604458cf7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:32:16</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=df2a49b81e591910c76147604458cf7a"/>
+</record_update>

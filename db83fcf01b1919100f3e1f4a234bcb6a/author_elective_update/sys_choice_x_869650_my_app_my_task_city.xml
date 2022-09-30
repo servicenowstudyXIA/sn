@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="city" table="x_869650_my_app_my_task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <name>x_869650_my_app_my_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 15:00:19</sys_created_on>
+            <sys_id>e68c91321bdddd100f3e1f4a234bcb8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>city</sys_name>
+            <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+            <sys_update_name>sys_choice_x_869650_my_app_my_task_city</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 15:00:19</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>henan</dependent_value>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>洛阳</label>
+            <language>ja</language>
+            <name>x_869650_my_app_my_task</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 15:00:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee8c91321bdddd100f3e1f4a234bcbbc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 15:00:19</sys_updated_on>
+            <value>luoyang</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>henan</dependent_value>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>郑州</label>
+            <language>ja</language>
+            <name>x_869650_my_app_my_task</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 15:00:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e8c91321bdddd100f3e1f4a234bcbbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 15:00:19</sys_updated_on>
+            <value>zhengzhou</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>jiangsu</dependent_value>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>无锡</label>
+            <language>ja</language>
+            <name>x_869650_my_app_my_task</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 15:00:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a28c91321bdddd100f3e1f4a234bcb8f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 15:00:19</sys_updated_on>
+            <value>wuxi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>jiangsu</dependent_value>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>南通</label>
+            <language>ja</language>
+            <name>x_869650_my_app_my_task</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 15:00:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e28c91321bdddd100f3e1f4a234bcb90</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 15:00:19</sys_updated_on>
+            <value>natong</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

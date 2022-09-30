@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Create My Task">1e52ca3f1b6191900f3e1f4a234bcbc4</sc_cat_item>
+        <sc_catalog display_value="My Catalog">1f451db31bed51900f3e1f4a234bcb9c</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 06:42:02</sys_created_on>
+        <sys_id>63e386bf1b6191900f3e1f4a234bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Catalog.Create My Task</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_63e386bf1b6191900f3e1f4a234bcb30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-02 06:42:02</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</application>
+        <file_path/>
+        <instance_id>2990a4c1db483410f37acac5059619dd</instance_id>
+        <instance_name>dev114441</instance_name>
+        <name>sc_cat_item_catalog_63e386bf1b6191900f3e1f4a234bcb30</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create My Task">1e52ca3f1b6191900f3e1f4a234bcbc4</sc_cat_item><sc_catalog display_value="My Catalog">1f451db31bed51900f3e1f4a234bcb9c</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-02 06:42:02</sys_created_on><sys_id>63e386bf1b6191900f3e1f4a234bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Catalog.Create My Task</sys_name><sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package><sys_policy/><sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope><sys_update_name>sc_cat_item_catalog_63e386bf1b6191900f3e1f4a234bcb30</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-02 06:42:02</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>477790578</payload_hash>
+        <record_name>My Catalog.Create My Task</record_name>
+        <reverted_from/>
+        <source>5f83fcf01b1919100f3e1f4a234bcb6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 06:42:02</sys_created_on>
+        <sys_id>e3e386bf1b6191900f3e1f4a234bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182fcef61190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-02 06:42:02</sys_updated_on>
+        <type>カタログアイテムカタログ</type>
+        <update_guid>6be386bf83619190e0e636da3d231834</update_guid>
+        <update_guid_history>6be386bf83619190e0e636da3d231834:477790578</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My Catalog.Create My Task">afe386bf1b6191900f3e1f4a234bcb3f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 06:42:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>657e65dc21fb404a95eac61e734047b1</sys_id>
+        <sys_metadata>63e386bf1b6191900f3e1f4a234bcb30</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Catalog.Create My Task</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_parent display_value="Create My Task">1e52ca3f1b6191900f3e1f4a234bcbc4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_scope_delete display_value="">a1932bc7ec36443098261662420be604</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_63e386bf1b6191900f3e1f4a234bcb30</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_63e386bf1b6191900f3e1f4a234bcb30">e3e386bf1b6191900f3e1f4a234bcb35</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-02 06:42:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

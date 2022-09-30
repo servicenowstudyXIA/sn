@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="開発者用ラップトップ(Mac)">2cb52d731b2191900f3e1f4a234bcb6b</sc_cat_item>
+        <sc_category display_value="Order">fb6ed1fb1bed51900f3e1f4a234bcb50</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 04:53:13</sys_created_on>
+        <sys_id>a90b61f71b2191900f3e1f4a234bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order.開発者用ラップトップ(Mac)</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sc_cat_item_category_a90b61f71b2191900f3e1f4a234bcba0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-02 04:53:13</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</application>
+        <file_path/>
+        <instance_id>2990a4c1db483410f37acac5059619dd</instance_id>
+        <instance_name>dev114441</instance_name>
+        <name>sc_cat_item_category_a90b61f71b2191900f3e1f4a234bcba0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="開発者用ラップトップ(Mac)">2cb52d731b2191900f3e1f4a234bcb6b</sc_cat_item><sc_category display_value="Order">fb6ed1fb1bed51900f3e1f4a234bcb50</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-02 04:53:13</sys_created_on><sys_id>a90b61f71b2191900f3e1f4a234bcba0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Order.開発者用ラップトップ(Mac)</sys_name><sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package><sys_policy/><sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope><sys_update_name>sc_cat_item_category_a90b61f71b2191900f3e1f4a234bcba0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-02 04:53:13</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1578253782</payload_hash>
+        <record_name>Order.開発者用ラップトップ(Mac)</record_name>
+        <reverted_from/>
+        <source>5f83fcf01b1919100f3e1f4a234bcb6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 04:53:14</sys_created_on>
+        <sys_id>6d0b61f71b2191900f3e1f4a234bcbaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182fc8bc37d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-02 04:53:14</sys_updated_on>
+        <type>カタログアイテムカテゴリ</type>
+        <update_guid>e10b61f782219190b184f91b9ab9d9af</update_guid>
+        <update_guid_history>e10b61f782219190b184f91b9ab9d9af:-1578253782</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Order.開発者用ラップトップ(Mac)">7e3b65f71b2191900f3e1f4a234bcb49</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 04:54:07</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>372232f72e244a80a56bd4a5ad73a840</sys_id>
+        <sys_metadata>a90b61f71b2191900f3e1f4a234bcba0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order.開発者用ラップトップ(Mac)</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_scope_delete display_value="">a1932bc7ec36443098261662420be604</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a90b61f71b2191900f3e1f4a234bcba0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a90b61f71b2191900f3e1f4a234bcba0">6d0b61f71b2191900f3e1f4a234bcbaf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-02 04:54:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>My Task アクティビティフォーマッターフィールド</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_869650_my_app_my_task_activity.fields</name>
+        <read_roles/>
+        <suffix>x_869650_my_app</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 05:30:49</sys_created_on>
+        <sys_id>08803de91bad59500f3e1f4a234bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_869650_my_app_my_task_activity.fields</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_properties_08803de91bad59500f3e1f4a234bcb93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 05:30:49</sys_updated_on>
+        <type>string</type>
+        <value>due_date,assigned_to,importance,progress,send_reminder,task_category,task_title,sys_tags,sys_mod_count,mandatory,result</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=08803de91bad59500f3e1f4a234bcb93"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey name="glide.ui.x_869650_my_app_my_task_activity.fields" tablename="sys_properties">08803de91bad59500f3e1f4a234bcb93</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 05:30:49</sys_created_on>
+        <sys_id>48803de91bad59500f3e1f4a234bcb94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 05:30:49</sys_updated_on>
+        <tablename>sys_properties</tablename>
+        <value>My Task アクティビティフォーマッターフィールド</value>
+    </sys_translated_text>
+</record_update>

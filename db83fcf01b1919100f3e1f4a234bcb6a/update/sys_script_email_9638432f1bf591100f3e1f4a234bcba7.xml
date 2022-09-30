@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>My Task Create Script</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(current, template, email, event) {
+//创建一个查询对象
+var gr= new GlideRecord("x_869650_my_app_my_task");
+//添加条件<查询出当前任务分配者的所有任务>
+gr.addQuery("assigned_to",current.assigned_to);
+//执行查询
+gr.query();
+//将查询结果输出到邮件模板	
+template.print("您总共有:"+gr.getRowCount()+"个任务");
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 03:39:49</sys_created_on>
+        <sys_id>9638432f1bf591100f3e1f4a234bcba7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Task Create Script</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_script_email_9638432f1bf591100f3e1f4a234bcba7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 03:39:49</sys_updated_on>
+    </sys_script_email>
+</record_update>

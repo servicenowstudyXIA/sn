@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="MyFlowTask" max_length="40" name="x_869650_my_app_myflowtask" sizeclass="8" type="collection">
+        <element label="A" max_length="40" name="a" type="integer"/>
+        <element label="B" max_length="40" name="b" type="integer"/>
+        <element choice="1" label="Operation" max_length="40" name="operation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Create" language="ja" sequence="0" value="create"/>
+                <element inactive_on_update="false" label="Delete" language="ja" sequence="1" value="delete"/>
+            </choice>
+        </element>
+        <element label="Result" max_length="40" name="result" type="integer"/>
+        <element label="Score" max_length="40" name="score" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="98cc44b21b99dd100f3e1f4a234bcb28" sys_domain="global" table="x_869650_my_app_table_field" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>audio</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcb9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>choice</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>072385f61b5ddd100f3e1f4a234bcb9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>class</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0b2385f61b5ddd100f3e1f4a234bcb9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar_date_time</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcb9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>currency</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>032385f61b5ddd100f3e1f4a234bcb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>color</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>072385f61b5ddd100f3e1f4a234bcb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>condition_string</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0b2385f61b5ddd100f3e1f4a234bcb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table_name</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>conditions</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>032385f61b5ddd100f3e1f4a234bcb9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_structure</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>072385f61b5ddd100f3e1f4a234bcb9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_time</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0b2385f61b5ddd100f3e1f4a234bcb9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>decimal</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcb9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>domain_id</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>032385f61b5ddd100f3e1f4a234bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document_id</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>072385f61b5ddd100f3e1f4a234bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>duration</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0b2385f61b5ddd100f3e1f4a234bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>032385f61b5ddd100f3e1f4a234bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fx_currency</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>072385f61b5ddd100f3e1f4a234bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>field_name</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0b2385f61b5ddd100f3e1f4a234bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>file_attachment</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>floating_point_number</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>032385f61b5ddd100f3e1f4a234bcba2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>html</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>072385f61b5ddd100f3e1f4a234bcba2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0b2385f61b5ddd100f3e1f4a234bcba2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>icon</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcba2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>image</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>032385f61b5ddd100f3e1f4a234bcba3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>insert_timestamp</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>072385f61b5ddd100f3e1f4a234bcba3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>integer</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0b2385f61b5ddd100f3e1f4a234bcba3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>journal</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcba3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>journal_input</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>032385f61b5ddd100f3e1f4a234bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>jounrnal_list</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>072385f61b5ddd100f3e1f4a234bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>list</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0b2385f61b5ddd100f3e1f4a234bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>long</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nds_icon</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>032385f61b5ddd100f3e1f4a234bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_value_pairs</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>072385f61b5ddd100f3e1f4a234bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password_1_way_encrypted</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0b2385f61b5ddd100f3e1f4a234bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password_2_way_encrypted</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>0f2385f61b5ddd100f3e1f4a234bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>percent_number</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>132385f61b5ddd100f3e1f4a234bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone_number</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>172385f61b5ddd100f3e1f4a234bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>price</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>1b2385f61b5ddd100f3e1f4a234bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reference</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>1f2385f61b5ddd100f3e1f4a234bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>string</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>132385f61b5ddd100f3e1f4a234bcba7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>string_full_utf_8</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>172385f61b5ddd100f3e1f4a234bcba7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>1b2385f61b5ddd100f3e1f4a234bcba7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>translated_html</element>
+            <position>43</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>1f2385f61b5ddd100f3e1f4a234bcba7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>translated_text</element>
+            <position>44</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>132385f61b5ddd100f3e1f4a234bcba8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>true_false</element>
+            <position>45</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>172385f61b5ddd100f3e1f4a234bcba8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <position>46</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>1b2385f61b5ddd100f3e1f4a234bcba8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>utc_time</element>
+            <position>47</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>1f2385f61b5ddd100f3e1f4a234bcba8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>video</element>
+            <position>48</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>132385f61b5ddd100f3e1f4a234bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wiki</element>
+            <position>49</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>172385f61b5ddd100f3e1f4a234bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workflow</element>
+            <position>50</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>1b2385f61b5ddd100f3e1f4a234bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>script_plain</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>1f2385f61b5ddd100f3e1f4a234bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>script</element>
+            <position>52</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 13:09:30</sys_created_on>
+            <sys_id>132385f61b5ddd100f3e1f4a234bcbaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_table_field" sys_domain="global" view="Default view">98cc44b21b99dd100f3e1f4a234bcb28</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 13:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_869650_my_app_table_field</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 09:11:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98cc44b21b99dd100f3e1f4a234bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_869650_my_app_table_field</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+            <sys_update_name>sys_ui_section_98cc44b21b99dd100f3e1f4a234bcb28</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 09:11:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="デフォルトビュー" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

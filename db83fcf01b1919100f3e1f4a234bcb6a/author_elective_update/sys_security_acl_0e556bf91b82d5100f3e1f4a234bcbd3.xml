@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_869650_my_app_my_flow_task</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 05:11:11</sys_created_on>
+        <sys_id>0e556bf91b82d5100f3e1f4a234bcbd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_869650_my_app_my_flow_task</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_security_acl_0e556bf91b82d5100f3e1f4a234bcbd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 05:11:11</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</application>
+        <file_path/>
+        <instance_id>2990a4c1db483410f37acac5059619dd</instance_id>
+        <instance_name>dev114441</instance_name>
+        <name>sys_security_acl_0e556bf91b82d5100f3e1f4a234bcbd3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_869650_my_app_my_flow_task</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-21 05:11:11</sys_created_on><sys_id>0e556bf91b82d5100f3e1f4a234bcbd3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_869650_my_app_my_flow_task</sys_name><sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package><sys_policy/><sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope><sys_update_name>sys_security_acl_0e556bf91b82d5100f3e1f4a234bcbd3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-21 05:11:11</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1220390753</payload_hash>
+        <record_name>x_869650_my_app_my_flow_task</record_name>
+        <reverted_from/>
+        <source>5f83fcf01b1919100f3e1f4a234bcb6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 05:11:11</sys_created_on>
+        <sys_id>4e556bf91b82d5100f3e1f4a234bcbd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1835e7508110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 05:11:11</sys_updated_on>
+        <type>アクセス制御</type>
+        <update_guid>86556bf97782d51019298fbdf451dbd5</update_guid>
+        <update_guid_history>86556bf97782d51019298fbdf451dbd5:1220390753</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 06:48:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>6a6aee9cd71e41d0afc34b046a28b599</sys_id>
+        <sys_metadata>0e556bf91b82d5100f3e1f4a234bcbd3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_869650_my_app_my_flow_task</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_parent display_value="">a0556bf91b82d5100f3e1f4a234bcb01</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_scope_delete display_value="">a1932bc7ec36443098261662420be604</sys_scope_delete>
+        <sys_update_name>sys_security_acl_0e556bf91b82d5100f3e1f4a234bcbd3</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_0e556bf91b82d5100f3e1f4a234bcbd3">4e556bf91b82d5100f3e1f4a234bcbd5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 06:48:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_condition">
+    <sys_ux_screen_condition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <screen display_value="Agent Assist">1f2a49b8545919100f264fed9a94fc78</screen>
+        <screen_condition/>
+        <script><![CDATA[(function canShowAA(params) {
+    return new x_869650_my_app.workspaceStarterExpUtils().checkContextualConfig(params.table);
+})(inputProperties);]]></script>
+        <scripted_condition>true</scripted_condition>
+        <sys_class_name>sys_ux_screen_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 08:32:15</sys_created_on>
+        <sys_id>1b2a49b83d591910b8594c269d2d8a78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_ux_screen_condition_1b2a49b83d591910b8594c269d2d8a78</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:32:15</sys_updated_on>
+    </sys_ux_screen_condition>
+</record_update>

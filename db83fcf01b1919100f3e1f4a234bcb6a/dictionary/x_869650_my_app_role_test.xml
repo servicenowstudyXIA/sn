@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Role Test" max_length="40" name="x_869650_my_app_role_test" sizeclass="1" type="collection">
+        <element label="A" max_length="40" name="a" type="string"/>
+        <element label="B" max_length="40" name="b" type="string"/>
+        <element label="C" max_length="40" name="c" type="string"/>
+        <element label="D" max_length="40" name="d" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

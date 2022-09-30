@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>932a49b8e6591910a71433acd4ec7a7c</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>my-app</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 08:32:15</sys_created_on>
+        <sys_id>532a49b862591910914bdca9d45b2b7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My App</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_ux_page_registry_532a49b862591910914bdca9d45b2b7c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:32:15</sys_updated_on>
+        <title>My App</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</application>
+        <file_path/>
+        <instance_id>2990a4c1db483410f37acac5059619dd</instance_id>
+        <instance_name>dev114441</instance_name>
+        <name>sys_ux_page_registry_532a49b862591910914bdca9d45b2b7c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>932a49b8e6591910a71433acd4ec7a7c</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>my-app</path><root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-11 08:32:15</sys_created_on><sys_id>532a49b862591910914bdca9d45b2b7c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My App</sys_name><sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package><sys_policy/><sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope><sys_update_name>sys_ux_page_registry_532a49b862591910914bdca9d45b2b7c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-11 08:32:15</sys_updated_on><title>My App</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-2057298308</payload_hash>
+        <record_name>My App</record_name>
+        <reverted_from/>
+        <source>3920c5c31b0111100f3e1f4a234bcbea</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-08-05 21:19:04</sys_created_on>
+        <sys_id>81529db01b9919100f3e1f4a234bcb45</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1826fe041400000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>41529db09f991910bce3cb7b47304b45</update_guid>
+        <update_guid_history>41529db09f991910bce3cb7b47304b45:-2057298308</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 09:07:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>8c2edf4932f94482adb59febbfbca024</sys_id>
+        <sys_metadata>532a49b862591910914bdca9d45b2b7c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My App</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_scope_delete display_value="">a1932bc7ec36443098261662420be604</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_532a49b862591910914bdca9d45b2b7c</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_532a49b862591910914bdca9d45b2b7c">81529db01b9919100f3e1f4a234bcb45</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 09:07:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

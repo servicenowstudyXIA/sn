@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" audit="true" max_length="40" name="x_869650_my_app_my_task" sizeclass="20" text_index="true" type="collection">
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Assign to users" max_length="40" name="assign_to_users" reference="sys_user" type="glide_list"/>
+        <element choice="1" dependent="province" dependent_on_field="province" label="City" max_length="40" name="city" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="henan" inactive_on_update="false" label="洛阳" language="ja" sequence="0" value="luoyang"/>
+                <element dependent_value="henan" inactive_on_update="false" label="郑州" language="ja" sequence="1" value="zhengzhou"/>
+                <element dependent_value="jiangsu" inactive_on_update="false" label="无锡" language="ja" sequence="2" value="wuxi"/>
+                <element dependent_value="jiangsu" inactive_on_update="false" label="南通" language="ja" sequence="3" value="natong"/>
+            </choice>
+        </element>
+        <element default="javascript:gs.getUser().firstName" dynamic_default_value="60235db61b9ddd100f3e1f4a234bcbc9" label="Default Value" max_length="40" name="default_value" type="string" use_dynamic_default="true"/>
+        <element label="Due date" max_length="40" name="due_date" type="glide_date"/>
+        <element choice="3" default="important" label="Importance" max_length="40" name="importance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Important" sequence="0" value="not_important"/>
+                <element inactive_on_update="false" label="Important" sequence="1" value="important"/>
+                <element inactive_on_update="false" label="Very Important" sequence="2" value="very_important"/>
+            </choice>
+        </element>
+        <element label="Input" max_length="40" name="input" type="string"/>
+        <element label="Mandatory" mandatory="true" max_length="40" name="mandatory" type="string"/>
+        <element label="Max length" max_length="5" name="max_length" type="string"/>
+        <element label="Output" max_length="40" name="output" type="string"/>
+        <element choice="1" label="Policy Test" max_length="40" name="policy_test" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="UI Policy Mandatory" language="ja" sequence="0" value="ui_policy_mandatory"/>
+                <element inactive_on_update="false" label="UI Policy Not Visible" language="ja" sequence="1" value="ui_policy_not_visible"/>
+                <element inactive_on_update="false" label="UI Policy Read Only" language="ja" sequence="2" value="ui_policy_read_only"/>
+                <element inactive_on_update="false" label="UI Policy Related Lists Not Visible" language="ja" sequence="3" value="ui_policy_related_lists_not_visible"/>
+                <element inactive_on_update="false" label="Data Policy Mandatory" language="ja" sequence="4" value="data_policy_mandatory"/>
+                <element inactive_on_update="false" label="Data Policy Read Only" language="ja" sequence="5" value="data_policy_read_only"/>
+            </choice>
+        </element>
+        <element choice="3" default="not_started" label="Progress" max_length="40" name="progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Started" sequence="0" value="not_started"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Done" sequence="2" value="done"/>
+                <element inactive_on_update="false" label="Canceled" sequence="3" value="canceled"/>
+            </choice>
+        </element>
+        <element choice="1" label="Province" max_length="40" name="province" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="河南省" language="ja" sequence="0" value="henan"/>
+                <element inactive_on_update="false" label="江苏省" language="ja" sequence="1" value="jiangsu"/>
+            </choice>
+        </element>
+        <element default="这个项目只可读，不能编辑操作" label="Read only" max_length="40" name="read_only" read_only="true" type="string"/>
+        <element default="Default String" label="Result" max_length="40" name="result" type="string"/>
+        <element label="Send reminder" max_length="40" name="send_reminder" type="boolean"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element label="Task category" max_length="32" name="task_category" reference="x_869650_my_app_task_category" type="reference"/>
+        <element display="true" label="Task title" max_length="150" name="task_title" type="string"/>
+        <element label="画面直接添加项目1" max_length="40" name="u_1" type="string"/>
+        <index name="index">
+            <element name="task_category"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

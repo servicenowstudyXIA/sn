@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-28 01:20:55</sys_created_on>
+        <sys_id>c9c33e441b92dd100f3e1f4a234bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_869650_my_app_rank.x_869650_my_app.MyAppReadCreateUpdate</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_security_acl display_value="x_869650_my_app_rank">89c33e441b92dd100f3e1f4a234bcbd8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c9c33e441b92dd100f3e1f4a234bcbda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-28 01:20:55</sys_updated_on>
+        <sys_user_role display_value="x_869650_my_app.MyAppReadCreateUpdate" name="x_869650_my_app.MyAppReadCreateUpdate">fcc33e441b92dd100f3e1f4a234bcb93</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

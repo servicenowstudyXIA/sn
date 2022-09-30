@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="My App - Workspace Search">d72a49b8ed5919107e15b449e3465078</search_context_config>
+        <source display_value="My App - x_869650_my_app_my_task">dc3a89b81b5919100f3e1f4a234bcb2f</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 08:32:21</sys_created_on>
+        <sys_id>f83a89b81b5919100f3e1f4a234bcb59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_f83a89b81b5919100f3e1f4a234bcb59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:32:21</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

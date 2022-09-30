@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c5264f841bd2dd100f3e1f4a234bcbb9" sys_domain="global" table="x_869650_my_app_role_test" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 02:42:34</sys_created_on>
+            <sys_id>95768bc41bd2dd100f3e1f4a234bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_role_test" sys_domain="global" view="Default view">c5264f841bd2dd100f3e1f4a234bcbb9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 02:42:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>a</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 02:42:34</sys_created_on>
+            <sys_id>99768bc41bd2dd100f3e1f4a234bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_role_test" sys_domain="global" view="Default view">c5264f841bd2dd100f3e1f4a234bcbb9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 02:42:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>b</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 02:42:34</sys_created_on>
+            <sys_id>9d768bc41bd2dd100f3e1f4a234bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_role_test" sys_domain="global" view="Default view">c5264f841bd2dd100f3e1f4a234bcbb9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 02:42:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 02:42:34</sys_created_on>
+            <sys_id>91768bc41bd2dd100f3e1f4a234bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_role_test" sys_domain="global" view="Default view">c5264f841bd2dd100f3e1f4a234bcbb9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 02:42:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 02:42:34</sys_created_on>
+            <sys_id>95768bc41bd2dd100f3e1f4a234bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_869650_my_app_role_test" sys_domain="global" view="Default view">c5264f841bd2dd100f3e1f4a234bcbb9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 02:42:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_869650_my_app_role_test</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 02:41:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5264f841bd2dd100f3e1f4a234bcbb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_869650_my_app_role_test</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+            <sys_update_name>sys_ui_section_c5264f841bd2dd100f3e1f4a234bcbb9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 02:41:11</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="デフォルトビュー" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

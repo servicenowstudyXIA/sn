@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table Field" max_length="40" name="x_869650_my_app_table_field" sizeclass="1" type="collection">
+        <element label="Audio" max_length="40" name="audio" type="audio"/>
+        <element label="Calendar Date Time" max_length="40" name="calendar_date_time" type="calendar_date_time"/>
+        <element choice="3" label="Choice" max_length="40" name="choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="A" language="ja" sequence="0" value="a"/>
+                <element inactive_on_update="false" label="B" language="ja" sequence="1" value="b"/>
+                <element inactive_on_update="false" label="C" language="ja" sequence="2" value="c"/>
+            </choice>
+        </element>
+        <element label="Class" max_length="40" name="class" type="string"/>
+        <element label="Color" max_length="40" name="color" type="color"/>
+        <element label="Conditions" max_length="40" name="conditions" type="conditions"/>
+        <element label="Condition String" max_length="40" name="condition_string" type="condition_string"/>
+        <element label="Currency" max_length="40" name="currency" type="currency"/>
+        <element label="Data Structure" max_length="40" name="data_structure" type="data_structure"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Date Time" max_length="40" name="date_time" type="glide_date_time"/>
+        <element label="Decimal" max_length="38" name="decimal" type="decimal"/>
+        <element label="Document ID" max_length="40" name="document_id" type="document_id"/>
+        <element label="Domain ID" max_length="40" name="domain_id" type="domain_id"/>
+        <element label="Due Date" max_length="40" name="due_date" type="due_date"/>
+        <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
+        <element label="Field Name" max_length="40" name="field_name" type="field_name"/>
+        <element label="File Attachment" max_length="40" name="file_attachment" type="file_attachment"/>
+        <element label="Floating Point Number" max_length="40" name="floating_point_number" type="float"/>
+        <element label="FX Currency" max_length="40" name="fx_currency" type="currency2"/>
+        <element label="HTML" max_length="40" name="html" type="html"/>
+        <element label="Icon" max_length="40" name="icon" type="icon"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Insert TimeStamp" max_length="40" name="insert_timestamp" type="insert_timestamp"/>
+        <element label="Integer" max_length="40" name="integer" type="integer"/>
+        <element label="IP Address" max_length="40" name="ip_address" type="ip_addr"/>
+        <element label="Jounrnal List" max_length="40" name="jounrnal_list" type="journal_list"/>
+        <element label="Journal" max_length="40" name="journal" type="journal"/>
+        <element label="Journal Input" max_length="40" name="journal_input" type="journal_input"/>
+        <element label="List" max_length="40" name="list" type="glide_list"/>
+        <element label="Long" max_length="40" name="long" type="longint"/>
+        <element label="Name-Value Pairs" max_length="40" name="name_value_pairs" type="simple_name_values"/>
+        <element label="NDS Icon" max_length="40" name="nds_icon" type="nds_icon"/>
+        <element label="Password(1 way Encrypted)" max_length="40" name="password_1_way_encrypted" type="password"/>
+        <element label="Password(2 Way Encrypted)" max_length="255" name="password_2_way_encrypted" type="password2"/>
+        <element label="Percent Number" max_length="38" name="percent_number" type="percent_complete"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="Price" max_length="40" name="price" type="price"/>
+        <element label="Reference" max_length="32" name="reference" reference="x_869650_my_app_task_category" type="reference"/>
+        <element label="Script" max_length="40" name="script" type="script"/>
+        <element label="Script(Plain)" max_length="40" name="script_plain" type="script_plain"/>
+        <element label="String" max_length="40" name="string" type="string"/>
+        <element label="String(Full UTF-8)" max_length="40" name="string_full_utf_8" type="string_full_utf8"/>
+        <element label="Table Name" max_length="40" name="table_name" type="table_name"/>
+        <element label="Test" max_length="40" name="test" type="string"/>
+        <element label="Time" max_length="40" name="time" type="glide_time"/>
+        <element label="Translated HTML" max_length="40" name="translated_html" type="translated_html"/>
+        <element label="Translated Text" max_length="40" name="translated_text" type="translated_text"/>
+        <element label="True False" max_length="40" name="true_false" type="boolean"/>
+        <element label="URL" max_length="40" name="url" type="url"/>
+        <element label="UTC Time" max_length="40" name="utc_time" type="glide_utc_time"/>
+        <element label="Video" max_length="40" name="video" type="video"/>
+        <element label="Wiki" max_length="40" name="wiki" type="wiki_text"/>
+        <element label="Workflow" max_length="40" name="workflow" type="workflow"/>
+        <index name="index">
+            <element name="domain_id"/>
+        </index>
+        <index name="index2">
+            <element name="reference"/>
+        </index>
+        <index name="index3">
+            <element name="fx_currency"/>
+        </index>
+        <index name="index4">
+            <element name="document_id"/>
+        </index>
+    </element>
+</database>

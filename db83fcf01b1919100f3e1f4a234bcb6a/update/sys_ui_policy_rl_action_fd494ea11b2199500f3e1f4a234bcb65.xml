@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="INSERT_OR_UPDATE">
+        <list>REL:b9edf0ca0a0a0b010035de2d6b579a03</list>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 07:21:25</sys_created_on>
+        <sys_id>fd494ea11b2199500f3e1f4a234bcb65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REL:b9edf0ca0a0a0b010035de2d6b579a03</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_fd494ea11b2199500f3e1f4a234bcb65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 07:21:25</sys_updated_on>
+        <ui_policy display_value="UI Policy Related Lists Not Visible">5124baa31bdd91500f3e1f4a234bcbf3</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_rl_action>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_869650_my_app.Audience for appMy App</api_name>
+        <description/>
+        <name>Audience for appMy App</name>
+        <roles>9383fcf01b1919100f3e1f4a234bcb70,5783fcf01b1919100f3e1f4a234bcb74</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 08:32:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c3a49b81b5919100f3e1f4a234bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for appMy App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_ux_applicability_8c3a49b81b5919100f3e1f4a234bcbf7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:32:17</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="choice" table="x_869650_my_app_table_field" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>choice</element>
+            <name>x_869650_my_app_table_field</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 12:28:37</sys_created_on>
+            <sys_id>d0d97cbe1b1ddd100f3e1f4a234bcb7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>choice</sys_name>
+            <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+            <sys_update_name>sys_choice_x_869650_my_app_table_field_choice</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 12:28:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A</label>
+            <language>ja</language>
+            <name>x_869650_my_app_table_field</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 12:28:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cd97cbe1b1ddd100f3e1f4a234bcb7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 12:28:37</sys_updated_on>
+            <value>a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>B</label>
+            <language>ja</language>
+            <name>x_869650_my_app_table_field</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 12:28:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90d97cbe1b1ddd100f3e1f4a234bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 12:28:37</sys_updated_on>
+            <value>b</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C</label>
+            <language>ja</language>
+            <name>x_869650_my_app_table_field</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 12:28:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10d97cbe1b1ddd100f3e1f4a234bcb81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 12:28:37</sys_updated_on>
+            <value>c</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

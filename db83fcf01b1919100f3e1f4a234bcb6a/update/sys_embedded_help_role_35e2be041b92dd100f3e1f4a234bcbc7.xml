@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_869650_my_app.MyAppReadOnly" name="x_869650_my_app.MyAppReadOnly">e1e2be041b92dd100f3e1f4a234bcbc5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-28 01:17:08</sys_created_on>
+        <sys_id>35e2be041b92dd100f3e1f4a234bcbc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e1e2be041b92dd100f3e1f4a234bcbc5</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_35e2be041b92dd100f3e1f4a234bcbc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-28 01:17:08</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

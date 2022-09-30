@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="b" label="B" language="ja" table="x_869650_my_app_role_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>b</element>
+            <help/>
+            <hint/>
+            <label>B</label>
+            <language>ja</language>
+            <name>x_869650_my_app_role_test</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 02:41:48</sys_created_on>
+            <sys_id>424687c41bd2dd100f3e1f4a234bcbca</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>B</sys_name>
+            <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+            <sys_update_name>sys_documentation_x_869650_my_app_role_test_b_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 02:41:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

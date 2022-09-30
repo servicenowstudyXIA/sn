@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="DELETE">
+        <collection>x_869650_my_app_my_task</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p>尊敬的${assigned_to.name}</p>
+<p>您有一个新的任务，请查收</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>My Task Create Template</name>
+        <sms_alternate/>
+        <subject>创建My Task任务成功</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 04:41:21</sys_created_on>
+        <sys_id>7381b2161b75d9900f3e1f4a234bcba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Task Create Template</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_update_name>sysevent_email_template_7381b2161b75d9900f3e1f4a234bcba5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-10 04:41:21</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</application>
+        <file_path/>
+        <instance_id>2990a4c1db483410f37acac5059619dd</instance_id>
+        <instance_name>dev114441</instance_name>
+        <name>sysevent_email_template_7381b2161b75d9900f3e1f4a234bcba5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sysevent_email_template"&gt;&lt;sysevent_email_template action="INSERT_OR_UPDATE"&gt;&lt;collection&gt;x_869650_my_app_my_task&lt;/collection&gt;&lt;email_layout/&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;尊敬的${assigned_to.name}&lt;/p&gt;
+&lt;p&gt;您有一个新的任务，请查收&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;My Task Create Template&lt;/name&gt;&lt;sms_alternate/&gt;&lt;subject&gt;创建My Task任务成功&lt;/subject&gt;&lt;sys_class_name&gt;sysevent_email_template&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-09-10 04:41:21&lt;/sys_created_on&gt;&lt;sys_id&gt;7381b2161b75d9900f3e1f4a234bcba5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;My Task Create Template&lt;/sys_name&gt;&lt;sys_package display_value="My App" source="x_869650_my_app"&gt;db83fcf01b1919100f3e1f4a234bcb6a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="My App"&gt;db83fcf01b1919100f3e1f4a234bcb6a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_template_7381b2161b75d9900f3e1f4a234bcba5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-09-10 04:41:21&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;/sysevent_email_template&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-850461382</payload_hash>
+        <record_name>My Task Create Template</record_name>
+        <reverted_from/>
+        <source>5f83fcf01b1919100f3e1f4a234bcb6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 04:41:21</sys_created_on>
+        <sys_id>35053a9a1b75d9900f3e1f4a234bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18325b3c3960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-10 04:41:21</sys_updated_on>
+        <type>メールテンプレート</type>
+        <update_guid>2d053a9af075d9902e879e588d9bcf5f</update_guid>
+        <update_guid_history>2d053a9af075d9902e879e588d9bcf5f:-850461382</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 02:17:48</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_template">sysevent_email_template</sys_db_object>
+        <sys_id>0b4697c86bce4c7496ce6a28f50ac7b1</sys_id>
+        <sys_metadata>7381b2161b75d9900f3e1f4a234bcba5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Task Create Template</sys_name>
+        <sys_package display_value="My App" source="x_869650_my_app">db83fcf01b1919100f3e1f4a234bcb6a</sys_package>
+        <sys_parent display_value="My App My Task">7d1bb4f81b1919100f3e1f4a234bcbfa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My App">db83fcf01b1919100f3e1f4a234bcb6a</sys_scope>
+        <sys_scope_delete display_value="">a1932bc7ec36443098261662420be604</sys_scope_delete>
+        <sys_update_name>sysevent_email_template_7381b2161b75d9900f3e1f4a234bcba5</sys_update_name>
+        <sys_update_version display_value="sysevent_email_template_7381b2161b75d9900f3e1f4a234bcba5">35053a9a1b75d9900f3e1f4a234bcb60</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 02:17:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
